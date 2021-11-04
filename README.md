@@ -26,13 +26,14 @@ A social media app for plants.
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Follow people and plant species
+* Add new plant
+* Delet plant
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Show plants on a map.
+* Click the plant on the map to view the plant/user's information.
 
 ### 2. Screen Archetypes
 
