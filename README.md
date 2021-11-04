@@ -74,8 +74,7 @@
    * PROFILE -> FEED or POST or SETTINGS
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img width="946" alt="Screen Shot 2021-11-04 at 17 14 29" src="https://user-images.githubusercontent.com/66335530/140427895-32b166bf-cbcf-4164-b205-61cfcbc580ef.png">
 
 ### [BONUS] Digital Wireframes & Mockups
 
