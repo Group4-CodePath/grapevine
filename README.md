@@ -10,13 +10,13 @@
 
 ## Overview
 ### Description
-A social media app for plants.
+[Description of your app]
 
 ### App Evaluation
 - **Category: Social Media**
 - **Mobile: This app would be primarily developed for mobile.**
 - **Story: People can view your profile and view collage of your plants and tap on them to see pictures of the progression of its growth over time.**
-- **Market: Any individual could choose to use this app, and to keep it a safe environment, plant would be organized into groups by plant species.**
+- **Market: Any individual could choose to use this app, and to keep it a safe environment, people would be organized into age groups.**
 - **Habit: This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.**
 - **Scope: User post their plants progress with tags like weather and location and they can view a map like in snapchat with their stories but instead with peoples plants nearby.**
 
@@ -26,42 +26,52 @@ A social media app for plants.
 
 **Required Must-have Stories**
 
-* Follow people and plant species
-* Add new plant
-* Delet plant
+* User log in and creation page
+* User post page 
+* User feed
+* User profile page
 
 **Optional Nice-to-have Stories**
 
-* Show plants on a map.
-* Click the plant on the map to view the plant/user's information.
+* Screen for viewing your boards and one for others
+* Screen to track your plants and when they need to be watered
+* Built in weather 
 
 ### 2. Screen Archetypes
 
-* Login
-   * [list associated required story here]
-   * ...
-* Sign up
-   * [list associated required story here]
-   * ...
-* Home screen
-* Setting
-
-### 3. Navigation
+* LOGIN / REGISTRATION
+   *  Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information
+* POSTING PAGE
+   * UPON pressing a button the user will be brought to a screen where they can create their posts and take pictures 
+* FEED
+   * Immediatly upon logging in they will be brought to a page curated for them based on the people they follow as well as the plants
+* PROFILE PAGE
+   * page where the user can view all the boards or their plants as well as a "theme"/"banner" that is a collage of their plants (possibly their most liked pics or custom created)
+## 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* LOGIN
+* FEED
+* PROFILE
+* POST
+* SETTINGS
 
 **Flow Navigation** (Screen to Screen)
-
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* LOGIN
+   * Screen to login or signup 
+   * LOGIN -> FEED
+* FEED
+   * Button to access feed is on bottom but also opens up automatically on login
+   * FEED -> PROFILE or POST or SETTINGS
+* PROFILE
+   * Button to access profile is on bottom
+   * PROFILE -> FEED or POST or SETTINGS
+* POST
+   * Button to access POST is on bottom | to get back to feed its a back button
+   * POST -> FEED
+* SETTINGS
+   * Button to access SETTINGS is on bottom
+   * PROFILE -> FEED or POST or SETTINGS
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
