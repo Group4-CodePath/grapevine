@@ -10,7 +10,7 @@
 
 ## Overview
 ### Description
-[Description of your app]
+[Social media app for people to share their love for plants. Users will post pictures and document their plants. Users will be able to follow other profiles and/or plants.]
 
 ### App Evaluation
 - **Category: Social Media**
