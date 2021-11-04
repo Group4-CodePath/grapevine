@@ -14,9 +14,9 @@
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
+- **Category: Social Media**
+- **Mobile: This app would be primarily developed for mobile.**
+- **Story: People can view your profile and view collage of your plants and tap on them to see pictures of the progression of its growth over time**
 - **Market:**
 - **Habit:**
 - **Scope:**
