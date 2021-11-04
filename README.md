@@ -16,7 +16,7 @@ A social media app for plants.
 - **Category: Social Media**
 - **Mobile: This app would be primarily developed for mobile.**
 - **Story: People can view your profile and view collage of your plants and tap on them to see pictures of the progression of its growth over time.**
-- **Market: Any individual could choose to use this app, and to keep it a safe environment, people would be organized into groups by plant species.**
+- **Market: Any individual could choose to use this app, and to keep it a safe environment, plant would be organized into groups by plant species.**
 - **Habit: This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.**
 - **Scope: User post their plants progress with tags like weather and location and they can view a map like in snapchat with their stories but instead with peoples plants nearby.**
 
