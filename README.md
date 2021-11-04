@@ -1,7 +1,7 @@
-Grapevine
+
 ===
 
-# APP_NAME_HERE
+# Grapevine
 
 ## Table of Contents
 1. [Overview](#Overview)
