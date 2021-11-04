@@ -1,5 +1,4 @@
-# grapevine
-Original App Design Project - README Template
+Grapevine
 ===
 
 # APP_NAME_HERE
