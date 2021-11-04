@@ -10,7 +10,7 @@
 
 ## Overview
 ### Description
-[Description of your app]
+A social media app for plants.
 
 ### App Evaluation
 - **Category: Social Media**
