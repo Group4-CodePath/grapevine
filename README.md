@@ -81,9 +81,45 @@
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+*Post*
+| Property | Type | Description |
+| --- | --- | --- |
+| postID | String | id for the user post
+| userImage | Pointer to User | image of the user
+| plantsBoard | String | name of the board that the plant belongs to
+| image | File | image that the user posts
+| caption | String | caption of the post
+| createdAt | DateTime | date when post is created
+| updatedAt | DateTime | date when post was last updated
+
+*User*
+| Property | Type | Description |
+| --- | --- | --- |
+| userID | String | id for the user
+| followersCount | Number | number of followers
+| followingCount | Number | number of users the user is following
+| plantsCount | Number | number of plants for the user
+| postImage | Pointer to Post | image of user's post
+| profileImage | File | profile image of user
+| coverimage | File | cover image of user
+
+*Search*
+| Property | Type | Description |
+| --- | --- | --- |
+| userID | Pointer to user | image and username of users
+| postId | Pointer to posts | image and caption of post
+| plantID | Pointer to plant | image and name of plant board
+
+
+*Plant*
+| Property | Type | Description |
+| --- | --- | --- |
+| plantID | String | name of plant 
+| userID | Pointer to user | gathers info of other plants from specific user
+| postId | Pointer to posts | gets image and captions of specific plant
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
