@@ -77,7 +77,7 @@
    * PROFILE -> FEED or POST or SEARCH
 
 ## Wireframes
-<img width="879" alt="Screen Shot 2021-11-11 at 15 40 10" src="https://user-images.githubusercontent.com/66335530/141372898-e5134297-2bcf-4ad1-9454-25cf625c41a9.png">
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/66335530/141373810-9bbecfdc-c562-4e6b-8fad-017d8d10984c.png">
 
 
 ## Schema 
