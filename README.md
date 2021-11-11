@@ -136,6 +136,7 @@
   * (Read/GET) Query logged in user object 
 * Create Post Screen
   * (Create/POST) Create a new post object
+  * (Read/GET) Select plants
 * Setting Screen
   * (Update/USER) Update user's name
   * (Read/GET) Search plant
