@@ -30,6 +30,7 @@
 * User post page 
 * User feed
 * User profile page
+* User search page
 
 **Optional Nice-to-have Stories**
 
@@ -46,7 +47,9 @@
 * FEED
    * Immediatly upon logging in they will be brought to a page curated for them based on the people they follow as well as the plants
 * PROFILE PAGE
-   * page where the user can view all the boards or their plants as well as a "theme"/"banner" that is a collage of their plants (possibly their most liked pics or custom created)
+   * Page where the user can view all the boards or their plants as well as a "theme"/"banner" that is a collage of their plants (possibly their most liked pics or custom created)
+* SEARCH PAGE
+  * Page where user can search up users and plants.
 ## 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -54,7 +57,7 @@
 * FEED
 * PROFILE
 * POST
-* SETTINGS
+* SEARCH
 
 **Flow Navigation** (Screen to Screen)
 * LOGIN
@@ -62,23 +65,20 @@
    * LOGIN -> FEED
 * FEED
    * Button to access feed is on bottom but also opens up automatically on login
-   * FEED -> PROFILE or POST or SETTINGS
+   * FEED -> PROFILE or POST or SEARCH
 * PROFILE
    * Button to access profile is on bottom
-   * PROFILE -> FEED or POST or SETTINGS
+   * PROFILE -> FEED or POST or SEARCH
 * POST
    * Button to access POST is on bottom | to get back to feed its a back button
    * POST -> FEED
-* SETTINGS
-   * Button to access SETTINGS is on bottom
-   * PROFILE -> FEED or POST or SETTINGS
+* SEARCH
+   * Button to access SEARCH is on bottom
+   * PROFILE -> FEED or POST or SEARCH
 
 ## Wireframes
-<img width="946" alt="Screen Shot 2021-11-04 at 17 14 29" src="https://user-images.githubusercontent.com/66335530/140427895-32b166bf-cbcf-4164-b205-61cfcbc580ef.png">
+<img width="879" alt="Screen Shot 2021-11-11 at 15 40 10" src="https://user-images.githubusercontent.com/66335530/141372898-e5134297-2bcf-4ad1-9454-25cf625c41a9.png">
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 ### Models
@@ -129,7 +129,6 @@
   * (Delete) Delete existing comment
   * (Update/POST) Update description on a post
   * (Update/POST) Update plant's name or species
-  * (Read/GET) Search user or plant
 * Profile Screen
   * (Update/USER) Update user profile image
   * (Update/USER) Update user profile background image
@@ -137,9 +136,8 @@
 * Create Post Screen
   * (Create/POST) Create a new post object
   * (Read/GET) Select plants
-* Setting Screen
-  * (Update/USER) Update user's name
-  * (Read/GET) Search plant
+* Search Screen
+  * (Read/GET) Search plant or user
 * Login Screen
   * (Read/GET) Get user's ID and password
   * (Create/USER) Create a new account
