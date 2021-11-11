@@ -121,6 +121,24 @@
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Home Feed Screen
+  -(Read/GET) Query all posts from following users
+  -(Create/POST) Create a new like on a post
+  -(Delete) Delete existing like
+  -(Create/POST) Create a new comment on a post
+  -(Delete) Delete existing comment
+  -(Update/POST) Update description on a post
+  -(Update/POST) Update plant's name or species
+  -(Read/GET) Search user or plant
+* Profile Screen
+  -(Update/USER) Update user profile image
+  -(Update/USER) Update user profile background image
+  -(Read/GET) Query logged in user object 
+* Create Post Screen
+  -(Create/POST) Create a new post object
+* Setting Screen
+  -(Update/USER) Update user's name
+* Login Screen
+  -(Read/GET) Get user's ID and password
+  -(Create/USER) Create a new account
+
