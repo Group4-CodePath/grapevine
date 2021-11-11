@@ -138,6 +138,7 @@
   * (Create/POST) Create a new post object
 * Setting Screen
   * (Update/USER) Update user's name
+  * (Read/GET) Search plant
 * Login Screen
   * (Read/GET) Get user's ID and password
   * (Create/USER) Create a new account
