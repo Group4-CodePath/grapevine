@@ -77,8 +77,7 @@
    * PROFILE -> FEED or POST or SEARCH
 
 ## Wireframes
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/66335530/141373810-9bbecfdc-c562-4e6b-8fad-017d8d10984c.png">
-
+<img width="933" alt="image" src="https://user-images.githubusercontent.com/66335530/141373923-ad7d17b4-d092-4a60-b077-ebb372561ba5.png">
 
 ## Schema 
 ### Models
