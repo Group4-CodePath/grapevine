@@ -1,13 +1,10 @@
-#Sun Nov 14 12:26:23 CST 2021
-path.3=classes 2.dex
+#Fri Nov 12 13:17:24 CST 2021
+base.2=C\:\\Users\\these\\StudioProjects\\grapevine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
 path.2=11/classes.dex
+base.1=C\:\\Users\\these\\StudioProjects\\grapevine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-path.0=classes.dex
-base.3=/Users/ethanchen/Desktop/grapevine/app/build/intermediates/dex/debug/mergeExtDexDebug/classes 2.dex
-base.2=/Users/ethanchen/Desktop/grapevine/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.1=/Users/ethanchen/Desktop/grapevine/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.0=/Users/ethanchen/Desktop/grapevine/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-renamed.3=classes4.dex
+base.0=C\:\\Users\\these\\StudioProjects\\grapevine\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+path.0=classes.dex
