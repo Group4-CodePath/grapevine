@@ -1922,6 +1922,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnLogin
+id btnSignup
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1999,6 +2001,8 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id etPassword
+id etUsername
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
