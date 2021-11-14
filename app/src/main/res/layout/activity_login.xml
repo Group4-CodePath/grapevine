@@ -22,7 +22,7 @@
     <ImageView
         android:id="@+id/imageView6"
         android:layout_width="387dp"
-        android:layout_height="107dp"
+        android:layout_height="102dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.571"
@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.715" />
 
     <Button
-        android:id="@+id/btnLogin3"
+        android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -57,7 +57,7 @@
         app:layout_constraintVertical_bias="0.714" />
 
     <Button
-        android:id="@+id/btnSignup3"
+        android:id="@+id/btnSignup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -71,7 +71,7 @@
         app:layout_constraintVertical_bias="0.804" />
 
     <EditText
-        android:id="@+id/etPassword3"
+        android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -89,7 +89,7 @@
         app:layout_constraintVertical_bias="0.61" />
 
     <EditText
-        android:id="@+id/etUsername3"
+        android:id="@+id/etUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
