@@ -1788,6 +1788,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable login_logo
+drawable logo
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2039,6 +2041,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView5
+id imageView6
 id immediateStop
 id included
 id info

@@ -44,6 +44,10 @@
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable_login_logo.png.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/drawable/login_logo.png"
+    },
+    {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
@@ -58,5 +62,9 @@
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/drawable/logo.png"
     }
 ]
