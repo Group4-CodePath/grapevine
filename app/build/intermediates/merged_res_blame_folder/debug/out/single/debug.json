@@ -1,15 +1,19 @@
 [
     {
-        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/layout/activity_login.xml"
     },
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -22,10 +26,6 @@
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.webp.flat",
