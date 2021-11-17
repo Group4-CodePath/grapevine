@@ -1924,8 +1924,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnLogin3
-id btnSignup3
+id btnLogin
+id btnSignup
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -2003,8 +2003,8 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
-id etPassword3
-id etUsername3
+id etPassword
+id etUsername
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2251,6 +2251,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2366,8 +2367,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_feed
 layout activity_login
-layout activity_main
+layout activity_post
+layout activity_profile
+layout activity_search
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

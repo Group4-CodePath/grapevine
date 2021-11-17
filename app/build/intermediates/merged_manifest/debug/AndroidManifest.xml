@@ -8,7 +8,11 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="31" />
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
+        android:name="com.example.grapevine.ParseApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -19,13 +23,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.Grapevine" >
         <activity
-            android:name="com.example.grapevine.MainActivity"
+            android:name="com.example.grapevine.LoginActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.grapevine.MainActivity" >
         </activity>
     </application>
 

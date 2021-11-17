@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/ethanchen/.gradle/caches/transforms-3/8e3df74b24eb6c89f108001d95ec2865/transformed/material-1.4.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\Abie Faz\\.gradle\\caches\\transforms-3\\8e3df74b24eb6c89f108001d95ec2865\\transformed\\material-1.4.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

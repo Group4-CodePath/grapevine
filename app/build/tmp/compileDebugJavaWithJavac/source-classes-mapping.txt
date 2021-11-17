@@ -1,4 +1,10 @@
 com/example/grapevine/BuildConfig.java
  com.example.grapevine.BuildConfig
+com/example/grapevine/ParseApplication.java
+ com.example.grapevine.ParseApplication
 com/example/grapevine/MainActivity.java
  com.example.grapevine.MainActivity
+com/example/grapevine/LoginActivity.java
+ com.example.grapevine.LoginActivity
+ com.example.grapevine.LoginActivity$1
+ com.example.grapevine.LoginActivity$2
