@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable_go_back.png.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/drawable/go_back.png"
+    },
+    {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/layout/activity_login.xml"
     },
@@ -98,5 +102,9 @@
     {
         "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable_search.png.flat",
         "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/res/merged/debug/drawable_profile_background.gif.flat",
+        "source": "/Users/ethanchen/Desktop/grapevine/app/src/main/res/drawable/profile_background.gif"
     }
 ]
