@@ -142,6 +142,6 @@
   * (Create/USER) Create a new account
 
 # Progress
-* Basic screens are created
+## Basic screens are created
 ![grapevine_progress](https://user-images.githubusercontent.com/66335530/142297265-c427af2f-7189-41eb-a74e-d248c0538a2d.gif)
 
