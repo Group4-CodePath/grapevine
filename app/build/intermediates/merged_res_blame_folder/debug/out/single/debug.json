@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\Abie Faz\\AndroidStudioProjects\\grapevine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",

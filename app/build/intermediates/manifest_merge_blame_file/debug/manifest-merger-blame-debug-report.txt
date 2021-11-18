@@ -18,7 +18,7 @@
 12-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:6:22-64
 13
 14    <application
-14-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:8:5-27:19
+14-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:8:5-26:19
 15        android:name="com.example.grapevine.ParseApplication"
 15-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:9:9-41
 16        android:allowBackup="true"
@@ -38,25 +38,25 @@
 24        android:theme="@style/Theme.Grapevine" >
 24-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:15:9-47
 25        <activity
-25-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:16:9-24:20
+25-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:16:9-23:20
 26            android:name="com.example.grapevine.LoginActivity"
 26-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:17:13-42
 27            android:exported="true" >
 27-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:18:13-36
 28            <intent-filter>
-28-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:19:13-23:29
+28-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:19:13-22:29
 29                <action android:name="android.intent.action.MAIN" />
 29-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:20:17-69
 29-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:20:25-66
 30
 31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:22:17-77
-31-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:22:27-74
+31-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:21:17-77
+31-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:21:27-74
 32            </intent-filter>
 33        </activity>
 34        <activity android:name="com.example.grapevine.MainActivity" >
-34-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:25:9-26:24
-34-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:25:19-47
+34-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:24:9-25:24
+34-->C:\Users\Abie Faz\AndroidStudioProjects\grapevine\app\src\main\AndroidManifest.xml:24:19-47
 35        </activity>
 36    </application>
 37
