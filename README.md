@@ -27,6 +27,7 @@
 **Required Must-have Stories**
 
 * User log in and creation page
+  [*] User able to login with username and password
 * User post page 
 * User feed
 * User profile page
