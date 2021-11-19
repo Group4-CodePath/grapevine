@@ -6,10 +6,7 @@
     tools:context=".fragments.FeedFragment"
     android:background="#3F9143">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="feed page" />
-
+        android:layout_height="match_parent" />
 </FrameLayout>

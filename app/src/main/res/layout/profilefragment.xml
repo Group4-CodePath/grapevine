@@ -1,18 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragments.ProfileFragment">
+    android:background="#8BC34A"
+    tools:context=".fragments.ProfileFragment" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="307dp"
+        android:background="#00FFFFFF"
+        android:backgroundTint="#00C34242"
+        android:gravity="top"
+        android:hapticFeedbackEnabled="true"
+        android:shadowColor="#00FFFFFF"
+        android:text="1200"
+        android:textSize="10sp"
+        app:iconTint="#00FFFFFF"
+        app:rippleColor="#00FFFFFF"
+        app:strokeColor="#00FFFFFF" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="311dp"
+        android:background="#00FFFFFF"
+        android:backgroundTint="#00C34242"
+        android:gravity="top"
+        android:hapticFeedbackEnabled="true"
+        android:shadowColor="#00FFFFFF"
+        android:text="12"
+        android:textSize="10sp"
+        app:iconTint="#00FFFFFF"
+        app:rippleColor="#00FFFFFF"
+        app:strokeColor="#00FFFFFF" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="427dp"
+        android:layout_height="287dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="-20dp"
+        android:cropToPadding="false"
+        android:src="@drawable/profile_background" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="200dp"
+        android:layout_height="155dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="152dp"
+        android:layout_marginEnd="107dp"
+        android:cropToPadding="false"
+        tools:src="@tools:sample/avatars" />
 
     <TextView
-        android:id="@+id/Profile"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="46dp"
-        android:layout_marginTop="181dp"
-        android:text="Profile Screen" />
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="335dp"
+        android:text="TextView"
+        tools:text="Following" />
 
-</FrameLayout>
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="303dp"
+        android:layout_marginTop="335dp"
+        android:text="TextView"
+        tools:text="Plants" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="174dp"
+        android:layout_marginTop="336dp"
+        android:text="TextView"
+        tools:text="Followers" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="175dp"
+        android:layout_marginTop="309dp"
+        android:background="#00FFFFFF"
+        android:backgroundTint="#00C34242"
+        android:gravity="top"
+        android:hapticFeedbackEnabled="true"
+        android:shadowColor="#00FFFFFF"
+        android:text="50"
+        android:textSize="10sp"
+        app:iconTint="#00FFFFFF"
+        app:rippleColor="#00FFFFFF"
+        app:strokeColor="#00FFFFFF" />
+
+</RelativeLayout>
