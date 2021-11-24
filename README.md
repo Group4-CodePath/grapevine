@@ -144,6 +144,9 @@
   * (Create/USER) Create a new account
 
 # Progress
-## Basic screens are created
-![grapevine_progress](https://user-images.githubusercontent.com/66335530/142297265-c427af2f-7189-41eb-a74e-d248c0538a2d.gif)
+* Basic screens are created
+  * ![grapevine_progress](https://user-images.githubusercontent.com/66335530/142297265-c427af2f-7189-41eb-a74e-d248c0538a2d.gif)
+* Able to update profile photo
+  * ![grapevine_progress2](https://user-images.githubusercontent.com/66335530/143301524-f0fb7e44-6740-4be1-bb65-a5872a137dae.gif)
+
 
