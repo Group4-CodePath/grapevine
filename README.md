@@ -32,8 +32,8 @@
 * User post page 
 * User feed
 * User profile page
-* [x] User able to change profile image
-* [x] User able to change backhround image
+  * [x] User able to change profile image
+  * [x] User able to change backhround image
 * User search page
 
 **Optional Nice-to-have Stories**
