@@ -4,7 +4,6 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -12,13 +11,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
-import com.example.grapevine.fragments.FeedFragment;
-import com.example.grapevine.fragments.PostFragment;
-import com.example.grapevine.fragments.ProfileFragment;
-import com.example.grapevine.fragments.SearchFragment;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -44,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
-        bottomNavigationView = findViewById(R.id.bottom_navigation);
-        bottomNavigationView.setItemIconTintList(null);
+       // bottomNavigationView = findViewById(R.id.bottom_navigation);
+        //bottomNavigationView.setItemIconTintList(null);
 
         profilePic = findViewById(R.id.profilePic);
         storage =FirebaseStorage.getInstance();
@@ -54,12 +48,12 @@ public class MainActivity extends AppCompatActivity {
         profilePic.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                choosePicutre();
+                choosePicture();
             }
         });
-        bottomNavigationView.setOnItemSelectedListener(new BottomNavigationView.OnItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+        //bottomNavigationView.setOnItemSelectedListener(new BottomNavigationView.OnItemSelectedListener() {
+            //@Override
+            /*public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 Fragment fragment = new FeedFragment();
                 switch (item.getItemId()) {
                     case R.id.homepage:
@@ -79,11 +73,11 @@ public class MainActivity extends AppCompatActivity {
                 }
                 fragmentManager.beginTransaction().replace(R.id.rlContainer, fragment).commit();
                 return true;
-            }
-        });
-        bottomNavigationView.setSelectedItemId(R.id.homepage);
+            }*/
+        //});
+        //bottomNavigationView.setSelectedItemId(R.id.homepage);
     }
-    private void choosePicutre(){
+    private void choosePicture(){
         Intent intent = new Intent();
         intent.setType("image/*");
         intent.setAction(Intent.ACTION_GET_CONTENT);
