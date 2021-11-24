@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338727920466",
+    "project_id": "grapevine-9b4ca",
+    "storage_bucket": "grapevine-9b4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338727920466:android:e1324854c7c965ff58d08b",
+        "android_client_info": {
+          "package_name": "com.example.grapevine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338727920466-50iivikmg6qh3trlqopvj7docv0uo30t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0niezIGmw6KIvDpzb9w988iFLITjFwAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338727920466-50iivikmg6qh3trlqopvj7docv0uo30t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
