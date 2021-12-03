@@ -1,4 +1,31 @@
 com/example/grapevine/BuildConfig.java
  com.example.grapevine.BuildConfig
+com/example/grapevine/fragments/ProfileFragment.java
+ com.example.grapevine.fragments.ProfileFragment
+ com.example.grapevine.fragments.ProfileFragment$1
+ com.example.grapevine.fragments.ProfileFragment$2
+com/example/grapevine/ParseApplication.java
+ com.example.grapevine.ParseApplication
+com/example/grapevine/Post.java
+ com.example.grapevine.Post
+com/example/grapevine/PostsAdapter.java
+ com.example.grapevine.PostsAdapter
+ com.example.grapevine.PostsAdapter$ViewHolder
+com/example/grapevine/fragments/PostsFragment.java
+ com.example.grapevine.fragments.PostsFragment
+ com.example.grapevine.fragments.PostsFragment$1
+ com.example.grapevine.fragments.PostsFragment$2
+com/example/grapevine/fragments/ComposeFragment.java
+ com.example.grapevine.fragments.ComposeFragment
+ com.example.grapevine.fragments.ComposeFragment$1
+ com.example.grapevine.fragments.ComposeFragment$2
+ com.example.grapevine.fragments.ComposeFragment$3
+com/example/grapevine/LoginActivity.java
+ com.example.grapevine.LoginActivity
+ com.example.grapevine.LoginActivity$1
+ com.example.grapevine.LoginActivity$2
+ com.example.grapevine.LoginActivity$3
+ com.example.grapevine.LoginActivity$4
 com/example/grapevine/MainActivity.java
  com.example.grapevine.MainActivity
+ com.example.grapevine.MainActivity$1

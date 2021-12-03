@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "/Users/ethanchen/Documents/GitHub/grapevine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
                     "source": "/Users/ethanchen/.gradle/caches/transforms-3/8e3df74b24eb6c89f108001d95ec2865/transformed/material-1.4.0/res/values-small-v4/values-small-v4.xml",

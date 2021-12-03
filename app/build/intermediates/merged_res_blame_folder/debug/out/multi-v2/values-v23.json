@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ethanchen/Desktop/grapevine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/ethanchen/Documents/GitHub/grapevine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/ethanchen/.gradle/caches/transforms-3/1d493f5e06e99e62c1f5ceed491c961f/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
