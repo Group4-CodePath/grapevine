@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#5DB15D"
     android:foregroundTint="#5DB15D"
-    tools:context="com.example.GrapeVine.fragments.PostsFragment">
+    tools:context="com.example.grapevine.fragments.PostsFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"
