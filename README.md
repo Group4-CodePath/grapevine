@@ -30,7 +30,9 @@
   * [x] User able to login with username and password
   * [x] sign up
 * User post page 
+  * [x] User able to create a new post
 * User feed
+  * [x] User able to see posts on home screen
 * User profile page
   * [x] User able to change profile image
   * [x] User able to change backhround image
