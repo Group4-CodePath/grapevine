@@ -16,6 +16,7 @@
             android:id="@+id/containerUserProfile"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="#BDF180"
             android:padding="12dp">
 
             <TextView
@@ -39,17 +40,6 @@
                 android:layout_marginRight="0dp"
                 android:backgroundTint="#009688"
                 android:text="Log out" />
-
-            <ImageView
-                android:id="@+id/imageView4"
-                android:layout_width="85dp"
-                android:layout_height="93dp"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentTop="true"
-                android:layout_marginStart="10dp"
-                android:layout_marginTop="0dp"
-                android:background="#8BC34A"
-                tools:src="@tools:sample/avatars" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -98,6 +88,16 @@
                 android:layout_marginStart="320dp"
                 android:layout_marginTop="70dp"
                 android:text="Species" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="110dp"
+                android:layout_height="111dp"
+                android:layout_alignTop="@+id/tvLoggedInUser"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/plantpic" />
 
         </RelativeLayout>
 
