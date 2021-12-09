@@ -156,5 +156,8 @@
   * ![grapevine_progress3](https://user-images.githubusercontent.com/66335530/144496449-7d55c633-c858-47fd-b0fc-9470017823e6.gif)
 * Search screen
   * ![grapevine_progress5](https://user-images.githubusercontent.com/66335530/145481881-910374ec-b9ed-4aab-9270-1d707524dbff.gif)
+* Final look
+  * ![grapevine_progress6](https://user-images.githubusercontent.com/66335530/145491382-1a62bc1c-95df-4f61-8ddd-7ad6e354c80a.gif)
+
 
 
