@@ -11,6 +11,7 @@ import androidx.fragment.app.FragmentManager;
 import com.example.grapevine.fragments.ComposeFragment;
 import com.example.grapevine.fragments.PostsFragment;
 import com.example.grapevine.fragments.ProfileFragment;
+import com.example.grapevine.fragments.SearchFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
@@ -30,8 +31,11 @@ public class MainActivity extends AppCompatActivity {
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                Fragment fragment;
+                Fragment fragment = null;
                 switch (item.getItemId()) {
+                    case R.id.search:
+                        fragment = new SearchFragment();
+                        break;
                     case R.id.feed:
                         fragment = new PostsFragment();
                         break;
