@@ -154,10 +154,9 @@
   * ![grapevine_progress2](https://user-images.githubusercontent.com/66335530/143301524-f0fb7e44-6740-4be1-bb65-a5872a137dae.gif)
 * Login and Sign up
   * ![grapevine_progress3](https://user-images.githubusercontent.com/66335530/144496449-7d55c633-c858-47fd-b0fc-9470017823e6.gif)
-* Search screen
-  * ![grapevine_progress5](https://user-images.githubusercontent.com/66335530/145481881-910374ec-b9ed-4aab-9270-1d707524dbff.gif)
 * Final look
-  * ![grapevine_progress5](https://user-images.githubusercontent.com/66335530/145491660-ee08f651-c155-4d25-ba63-36532cdb6f45.gif)
+  * ![grapevine_progress6](https://user-images.githubusercontent.com/66335530/145491736-772cc240-dea4-4d69-abf9-ac267add6fb5.gif)
+
 
 
 
