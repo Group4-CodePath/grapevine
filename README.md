@@ -37,7 +37,7 @@
   * [x] User able to change profile image
   * [x] User able to change backhround image
 * User search page
-  * User able to search plant
+  * [x] User able to search plant
 
 **Optional Nice-to-have Stories**
 
